@@ -1,0 +1,239 @@
+@font-face {
+  font-family: 'alerta-stencil';
+  src:  url('../public/assets/fonts/AllertaStencil-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'amarante';
+  src:  url('../public/assets/fonts/Amarante-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'anton';
+  src:  url('../public/assets/fonts/Anton-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'arial-rounded-mt-bold';
+  src:  url('../public/assets/fonts/ArialRoundedMTBoldRegular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'average';
+  src:  url('../public/assets/fonts/Average-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'cantora-one';
+  src:  url('../public/assets/fonts/CantoraOne-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'chela-one';
+  src:  url('../public/assets/fonts/ChelaOne-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'chicle';
+  src:  url('../public/assets/fonts/Chicle-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'cinzel-decorative';
+  src:  url('../public/assets/fonts/CinzelDecorative-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'freshman';
+  src:  url('../public/assets/fonts/Freshman.ttf') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'galada';
+  src:  url('../public/assets/fonts/Galada-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'gamja-flower';
+  src:  url('../public/assets/fonts/GamjaFlower-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'graduate';
+  src:  url('../public/assets/fonts/Graduate-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'happy-monkey';
+  src:  url('../public/assets/fonts/HappyMonkey-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'hello';
+  src:  url('../public/assets/fonts/Hello.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'holtwood-one-sc';
+  src:  url('../public/assets/fonts/HoltwoodOneSC-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'lily-script-one';
+  src:  url('../public/assets/fonts/LilyScriptOne-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'lobster';
+  src:  url('../public/assets/fonts/Lobster-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'marko-one';
+  src:  url('../public/assets/fonts/MarkoOne-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'metal-mania';
+  src:  url('../public/assets/fonts/MetalMania-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'milonga';
+  src:  url('../public/assets/fonts/Milonga-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'mogra';
+  src:  url('../public/assets/fonts/Mogra-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'new-rocker';
+  src:  url('../public/assets/fonts/NewRocker-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'oleo-script-swash-caps';
+  src:  url('../public/assets/fonts/OleoScriptSwashCaps-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'open-sans';
+  src:  url('../public/assets/fonts/OpenSans-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'paprika';
+  src:  url('../public/assets/fonts/Paprika-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'parisienne';
+  src:  url('../public/assets/fonts/Parisienne-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'pirata-one';
+  src:  url('../public/assets/fonts/PirataOne-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'playfair-display-sc';
+  src:  url('../public/assets/fonts/PlayfairDisplaySC-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'port-lligat-sans';
+  src:  url('../public/assets/fonts/PortLligatSans-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'press-start-2p';
+  src:  url('../public/assets/fonts/PressStart2P-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'romanesco';
+  src:  url('../public/assets/fonts/Romanesco-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'rum-raisin';
+  src:  url('../public/assets/fonts/RumRaisin-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'salsa';
+  src:  url('../public/assets/fonts/Salsa-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'shadows-into-light';
+  src:  url('../public/assets/fonts/ShadowsIntoLight-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'sofia';
+  src:  url('../public/assets/fonts/Sofia-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'special-elite';
+  src:  url('../public/assets/fonts/SpecialElite-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src:  url('../public/assets/fonts/Ubuntu-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'ultra';
+  src:  url('../public/assets/fonts/Ultra-Regular.woff') format('truetype');
+   font-display: swap;
+}
+
+@font-face {
+  font-family: 'unifraktur-maguntia';
+  src:  url('../public/assets/fonts/UnifrakturMaguntia-Regular.woff') format('truetype');
+   font-display: swap;
+}
