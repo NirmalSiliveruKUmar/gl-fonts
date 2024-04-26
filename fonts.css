@@ -1,239 +1,239 @@
 @font-face {
   font-family: 'alerta-stencil';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'amarante';
-  src:  url(https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'anton';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'arial-rounded-mt-bold';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Arial+Rounded+MT+Bold&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'average';
-  src:  url('../public/assets/fonts/Average-Regular.woff') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Average&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'cantora-one';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Cantora+One&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'chela-one';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'chicle';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Chicle&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'cinzel-decorative';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'freshman';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Freshman&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'galada';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'gamja-flower';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'graduate';
-  src:  url('../public/assets/fonts/Graduate-Regular.woff') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'happy-monkey';
-  src:  url('../public/assets/fonts/HappyMonkey-Regular.woff') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'hello';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Hello&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'holtwood-one-sc';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'lily-script-one';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'lobster';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'marko-one';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Marko+One&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'metal-mania';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'milonga';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'mogra';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Mogra&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'new-rocker';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'oleo-script-swash-caps';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'open-sans';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'paprika';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Paprika&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'parisienne';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'pirata-one';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'playfair-display-sc';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'port-lligat-sans';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Port+Lligat+Sans&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'press-start-2p';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'romanesco';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Romanesco&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'rum-raisin';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Rum+Raisin&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'salsa';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'shadows-into-light';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'sofia';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'special-elite';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Ubuntu';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'ultra';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'unifraktur-maguntia';
-  src:  url('https://fonts.googleapis.com/css2?family=Allerta+Stencil') format('truetype');
-   font-display: swap;
+  src: url('https://fonts.googleapis.com/css2?family=Unifraktur+Maguntia&display=swap');
+  font-display: swap;
 }
